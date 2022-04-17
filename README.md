@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # This is Wooyeol Lee !
----
 
 I am an undergraduate student majoring in Mechanical Engineering at Seoul National University. My interest is all the technologies that become part of our lives, especially in Reinforcement Learning(RL) and Robot Learning. I am always willing to grow, so feel free to contact me!
 
