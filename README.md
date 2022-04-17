@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# This is Wooyeol Lee !
+---
+
+I am an undergraduate student majoring in Mechanical Engineering at Seoul National University. My interest is all the technologies that become part of our lives, especially in Reinforcement Learning(RL) and Robot Learning. I am always willing to grow, so feel free to contact me!
+
+<a href="[wooyeol0519@snu.ac.kr]" target="_blank"><img src="https://img.shields.io/badge/[Email]-[EA4335]?style=flat-square&logo=[Gmail]&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/이우열-8933b9230]" target="_blank"><img src="https://img.shields.io/badge/[LinkedIn]-[0A66C2]?style=flat-square&logo=[LinkedIn]&logoColor=white"/></a>
+
 ![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api?username=thisisWooyeol&show_icons=true)
 [![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWooyeol&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/thisisWooyeol)
 
