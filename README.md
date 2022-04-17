@@ -11,7 +11,11 @@ I am an undergraduate student majoring in Mechanical Engineering at Seoul Nation
 
 ### Technical Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
 ![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api?username=thisisWooyeol&show_icons=true&theme=dark)
 [![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWooyeol&show_icons=true&layout=compact&theme=dark)](https://github.com/thisisWooyeol)
