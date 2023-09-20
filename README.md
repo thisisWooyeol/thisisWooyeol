@@ -13,7 +13,7 @@ I am an undergraduate student majoring in [Mechanical Engineering at Seoul Natio
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 
 
-![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api?username=thisisWooyeol&show_icons=true&theme=dark)
+<!-- ![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api?username=thisisWooyeol&show_icons=true&theme=dark) -->
 [![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisWooyeol&show_icons=true&layout=compact&theme=dark)](https://github.com/thisisWooyeol)
 
 <!--
