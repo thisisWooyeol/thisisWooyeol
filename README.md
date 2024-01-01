@@ -23,7 +23,7 @@ The following list showcases my technical skills, arranged in descending order o
 ![Clang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 * **Core Frameworks & Library**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Lightning AI](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white) 
 * **Etc.**<br/>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
