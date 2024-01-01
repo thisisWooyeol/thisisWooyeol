@@ -9,7 +9,7 @@ I am an undergraduate student majoring in [`Mechanical Engineering at Seoul Nati
 <a href="https://thisiswooyeol.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 ### Research Interests
-Reinforcement Learning, Learning from Demonstration, MARL
+Reinforcement Learning, Robot Learning, Learning from Demonstration
 
 ### Technical Skills
 The following list showcases my technical skills, arranged in descending order of proficiency:
