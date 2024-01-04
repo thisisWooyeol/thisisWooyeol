@@ -45,7 +45,7 @@ The following list showcases my technical skills, arranged in descending order o
 
 <!-- ![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api?username=thisisWooyeol&show_icons=true&rank_icon=github&theme=default) -->
 [![Wooyeol Lee's GitHub Streak](https://streak-stats.demolab.com?user=thisiswooyeol&theme=tokyonight-duo)](https://git.io/streak-stats)
-[![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiswooyeol&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=tokyonight-duo)](https://github.com/thisisWooyeol)
+<!-- [![Wooyeol Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiswooyeol&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=tokyonight-duo)](https://github.com/thisisWooyeol) -->
 <!-- [![Wooyeol Lee's GitHub profile summary](https://github-profile-trophy.vercel.app/?username=thisiswooyeol&theme=tokyonight-duo)](https://github.com/thisisWooyeol) -->
 
 
