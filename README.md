@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # This is Wooyeol Lee !
-I am an undergraduate student majoring in [`Mechanical Engineering at Seoul National University`](https://me.snu.ac.kr/en). My interests are all the technologies that become part of our lives, especially in Deep Reinforcement Learning and Robot Learning. If you want to know more about me, please refer to my `HomePage`. I am always willing to grow, so feel free to contact me!
+I am an undergraduate student majoring in [`Computer Science and Engineering at Seoul National University`](https://cse.snu.ac.kr/en). My interests are all the technologies that become part of our lives, especially in Deep Reinforcement Learning and Robot Learning. If you want to know more about me, please refer to my `HomePage`. I am always willing to grow, so feel free to contact me!
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
