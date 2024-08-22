@@ -1,26 +1,21 @@
 ### Hi there 👋
 
 # This is Wooyeol Lee !
-I am an undergraduate student majoring in [`Computer Science and Engineering at Seoul National University`](https://cse.snu.ac.kr/en). My interests are all the technologies that become part of our lives, especially in Deep Reinforcement Learning and Robot Learning. If you want to know more about me, please refer to my `HomePage`. I am always willing to grow, so feel free to contact me!
+I am an undergraduate student majoring in [`Computer Science and Engineering at Seoul National University`](https://cse.snu.ac.kr/en). My interests are all the technologies that become part of our lives. If you want to know more about me, please refer to my `HomePage`. I am always willing to grow, so feel free to contact me!
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
 [![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisiswooyeol.github.io)
 [![Wooyeol Lee's CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://thisiswooyeol.github.io/assets/pdf/WooyeolLee_CV.pdf)
 
-
-### Research Interests
-Reinforcement Learning, Robot Learning, Learning from Demonstration
-
-
 ### Technical Skills
 The following list showcases my technical skills, arranged in descending order of proficiency:
 * **Programming Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Clang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Clang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 * **Core Frameworks & Library**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
