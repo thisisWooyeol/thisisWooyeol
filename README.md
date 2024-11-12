@@ -1,17 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-# This is Wooyeol Lee !
-I am an undergraduate student majoring in [`Computer Science and Engineering`](https://cse.snu.ac.kr/en) at Seoul National University. My interests are all the technologies that become part of our lives. If you want to know more about me, please refer to my `HomePage`. I am always willing to grow, so feel free to contact me!
+I am Wooyeol Lee, a senior undergraduate student majoring in CS at **Seoul National University, South Korea**.
+
+I am interested in all technologies that integrate into our daily lives, including **AI, IoT, and Robotics**. My goal is to **develop services that make everyday life more convenient**. If there's a skill that helps me achieve this goal, I'm always ready to **learn and dive deep** into it!
+
+I am constantly seeking opportunities to grow, so feel free to reach out!
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
-[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisiswooyeol.github.io)
+[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wooyeollee.notion.site)
 [![Wooyeol Lee's CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://thisiswooyeol.github.io/assets/pdf/WooyeolLee_CV.pdf)
 
-### Technical Skills
+<br/>
+
+## Technical Skills
 The following list showcases my technical skills, arranged in descending order of proficiency:
 
-#### For AI
+### For AI
 * **Programming Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Clang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +31,7 @@ The following list showcases my technical skills, arranged in descending order o
 ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-#### For Web/App Development
+### For Web/App Development
 * **Programming Languages**<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,7 +40,7 @@ The following list showcases my technical skills, arranged in descending order o
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### Now I am aming to learn... 
+### Now I am aming to learn... 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!-- TODO skills!!
