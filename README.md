@@ -2,7 +2,7 @@
 
 I am Wooyeol Lee, a senior undergraduate student majoring in CS at **Seoul National University, South Korea**.
 
-I am interested in all technologies that integrate into our daily lives, including **AI, IoT, and Robotics**. My goal is to **develop services that make everyday life more convenient**. If there's a skill that helps me achieve this goal, I'm always ready to **learn and dive deep** into it!
+I am interested in all technologies that integrate into our daily lives, including **AI, BioInformatics, and Robotics**. My goal is to **develop services that make everyday life more convenient**. If there's a skill that helps me achieve this goal, I'm always ready to **learn and dive deep** into it!
 
 I am constantly seeking opportunities to grow, so feel free to reach out!
 
