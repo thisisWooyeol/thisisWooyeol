@@ -1,14 +1,12 @@
-# Hi there 👋
+#  Wooyeol Lee
 
-I am Wooyeol Lee, a senior undergraduate student majoring in CS at **Seoul National University, South Korea**.
+I am a senior undergraduate student majoring in computer science at Seoul National University in South Korea. Currently, I'm working as an research intern at Artificial Intelligence & Biomedical Informatics Lab advised by Prof. Kyungsu Kim.
 
-I am interested in all technologies that integrate into our daily lives, including **AI, BioInformatics, and Robotics**. My goal is to **develop services that make everyday life more convenient**. If there's a skill that helps me achieve this goal, I'm always ready to **learn and dive deep** into it!
-
-I am constantly seeking opportunities to grow, so feel free to reach out!
+My interests span artificial intelligence, bioinformatics, and robotics, focusing on high-impact technologies beyond research. I am passionate about developing innovative solutions and committed to continuous learning in emerging fields.
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
-[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wooyeollee.notion.site)
+[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisiswooyeol.github.io)
 [![Wooyeol Lee's CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://drive.google.com/file/d/1a3c83AHmkS0gEjvvQQQZKmw4nX8Si2gl/view?usp=drive_link)
 
 <br/>
