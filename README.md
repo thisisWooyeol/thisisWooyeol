@@ -1,8 +1,8 @@
 #  Wooyeol Lee
 
-I am a senior undergraduate student majoring in computer science at Seoul National University in South Korea. Currently, I'm working as an research intern at Artificial Intelligence & Biomedical Informatics Lab advised by Prof. Kyungsu Kim.
+I am an MS/Ph.D. student in the Department of Biomedical Sciences at Seoul National University in South Korea. Building upon my undergraduate foundation in computer science, I am continuing my research at the Artificial Intelligence & Biomedical Informatics Lab, advised by Prof. Kyungsu Kim.
 
-My interests span artificial intelligence, bioinformatics, and robotics, focusing on high-impact technologies beyond research. I am passionate about developing innovative solutions and committed to continuous learning in emerging fields.
+My research is driven by the ultimate vision of developing a comprehensive biomolecular world model. Recognizing that the critical bottleneck in this domain is data, my primary focus is on resolving the challenges of data scaling. I focus on the acquisition, processing, and utilization of massive-scale, high-quality structural biology data. To build this robust data foundation, I am actively exploring advanced technologies, including Cryo-EM, to push the boundaries of structurally conditioned protein design and generative AI.
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
