@@ -1,8 +1,10 @@
 #  Wooyeol Lee
 
-I am a first-year MS/Ph.D. student in the Department of Biomedical Sciences at Seoul National University, advised by Prof. Kyungsu Kim at the Artificial Intelligence & Biomedical Informatics Lab. With a background in computer science, I aim to understand biological phenomena by computationally visualizing and simulating their molecular mechanisms.
+I am a first-year MS/Ph.D. student in the Department of Biomedical Sciences at Seoul National University, advised by Prof. Kyungsu Kim at the Artificial Intelligence & Biomedical Informatics Lab. 
 
-My long-term goal is to bridge experimental observations with dynamic, structural explanations of how biomolecules move, interact, and function. Through this direction, I hope to contribute to drug discovery by enabling a deeper mechanistic understanding of biochemical processes.
+My research focuses on understanding biological phenomena by resolving the molecular states and interactions that underlie experimentally observed behaviors. In particular, I am interested in computationally characterizing latent molecular states that are difficult to isolate directly in biological assays, and in understanding how their state-specific contributions give rise to macroscopic observables. 
+
+With this perspective, I aim to develop biophysics-grounded computational methods that retain molecular fidelity while remaining reliable and scalable for drug discovery.
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
