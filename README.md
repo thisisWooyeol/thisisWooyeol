@@ -1,10 +1,8 @@
 #  Wooyeol Lee
 
-I am a first-year MS/Ph.D. student in the Department of Biomedical Sciences at Seoul National University, advised by Prof. Kyungsu Kim at the Artificial Intelligence & Biomedical Informatics Lab. 
+I am a first-year MS/Ph.D. student in the Department of Biomedical Sciences at Seoul National University, advised by Prof. Kyungsu Kim at the Artificial Intelligence & Biomedical Informatics Lab.
 
-My research focuses on understanding biological phenomena by resolving the molecular states and interactions that underlie experimentally observed behaviors. In particular, I am interested in computationally characterizing latent molecular states that are difficult to isolate directly in biological assays, and in understanding how their state-specific contributions give rise to macroscopic observables. 
-
-With this perspective, I aim to develop biophysics-grounded computational methods that retain molecular fidelity while remaining reliable and scalable for drug discovery.
+My research focuses on modeling and learning interactions among the molecular components of biomolecular complexes. I aim to develop reliable and scalable learning and generative methods for complex generation and evaluation, with applications in protein binder design and binding affinity prediction.
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
