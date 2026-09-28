@@ -6,7 +6,7 @@ My research focuses on modeling and learning interactions among the molecular co
 
 [![Wooyeol Lee's SNU mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wooyeol0519@snu.ac.kr)
 [![Wooyeol Lee's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wooyeol-lee-8933b9230/)
-[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thisiswooyeol.github.io)
+[![Wooyeol Lee's HomePage](https://img.shields.io/badge/HomePage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wooyeollee.com)
 [![Wooyeol Lee's CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://drive.google.com/file/d/1a3c83AHmkS0gEjvvQQQZKmw4nX8Si2gl/view?usp=drive_link)
 
 <br/>
